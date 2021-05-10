@@ -1,2 +1,1 @@
-# Tindog
-Find the perfect match for your Dog
+TinDog Starting Files
